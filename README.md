@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 👨‍💻 All of my projects are available at [https://x-portfolio-mayank.vercel.app/](https://x-portfolio-mayank.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://x-portfolio-mayank.vercel.app/](https://www.mayankr.me/)
 
 - 📫 How to reach me **mayankradadiya2@gmail.com**
 
