@@ -57,11 +57,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-radadiya&show_icons=true&locale=en&layout=compact" alt="mayank-radadiya" /></p>
 
