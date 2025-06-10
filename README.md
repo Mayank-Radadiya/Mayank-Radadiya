@@ -69,3 +69,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-radadiya&show_icons=true&locale=en" alt="mayank-radadiya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-radadiya&" alt="-" /></p>
+
+
+<img src="https://raw.githubusercontent.com/Mayank-Radadiya/Mayank-Radadiya/output/snake.svg" alt="Snake animation" />
