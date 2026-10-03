@@ -43,48 +43,76 @@ I care about the parts most demos skip: the schema, the loading states, the edge
 ## `> tech_stack`
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎨 Interface
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js" height="36" />
-  <br>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn/UI-000000?style=flat-square&logo=shadcnui&logoColor=white" />
-</p>
-
-#### ⚙️ Service
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="36" />
-  <br>
-  <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Inngest-4636F5?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🗄️ Data
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,mysql" height="36" />
-  <br>
-  <img src="https://img.shields.io/badge/Convex-EE342F?style=flat-square&logoColor=white" />
-</p>
-
-#### ☁️ Platform & AI
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,docker,git,github" height="36" />
-  <br>
-  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" />
-</p>
-
-</td>
-</tr>
+  <tr>
+    <td width="170"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Java-1E293B?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Solidity-1E293B?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
+      <img src="https://img.shields.io/badge/HTML5-1E293B?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1E293B?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=white" alt="React">
+      <img src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-1E293B?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+      <img src="https://img.shields.io/badge/shadcn%2Fui-1E293B?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui">
+      <img src="https://img.shields.io/badge/Framer_Motion-1E293B?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/Express-1E293B?style=flat-square&logo=express&logoColor=white" alt="Express">
+      <img src="https://img.shields.io/badge/tRPC-1E293B?style=flat-square&logo=trpc&logoColor=white" alt="tRPC">
+      <img src="https://img.shields.io/badge/Inngest-1E293B?style=flat-square&logo=inngest&logoColor=white" alt="Inngest">
+      <img src="https://img.shields.io/badge/WebRTC-1E293B?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/Prisma-1E293B?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
+      <img src="https://img.shields.io/badge/Convex-1E293B?style=flat-square&logo=convex&logoColor=white" alt="Convex">
+      <img src="https://img.shields.io/badge/MongoDB-1E293B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/MySQL-1E293B?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vercel_AI_SDK-0E7490?style=flat-square&logo=vercel&logoColor=white" alt="Vercel AI SDK">
+      <img src="https://img.shields.io/badge/Gemini-0E7490?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Auth, payments, media</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Clerk-1E293B?style=flat-square&logo=clerk&logoColor=white" alt="Clerk">
+      <img src="https://img.shields.io/badge/Better_Auth-1E293B?style=flat-square" alt="Better Auth">
+      <img src="https://img.shields.io/badge/Stripe-1E293B?style=flat-square&logo=stripe&logoColor=white" alt="Stripe">
+      <img src="https://img.shields.io/badge/Mux-1E293B?style=flat-square&logo=mux&logoColor=white" alt="Mux">
+      <img src="https://img.shields.io/badge/UploadThing-1E293B?style=flat-square" alt="UploadThing">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tooling</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Vercel-1E293B?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+      <img src="https://img.shields.io/badge/Postman-1E293B?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+    </td>
+  </tr>
 </table>
+
 
 <br>
 
